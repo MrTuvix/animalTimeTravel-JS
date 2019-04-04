@@ -1,0 +1,2 @@
+# animalTimeTravel-JS
+This is my actual first working function using JavaScript. This was actually built from a project task found in "Coding for Teens" by Jeremy Moritz. A book my wife found at a recent homeschooling convention. The task was to design a function that would randomly choose the year to travel to for a manually input animal species. I took the function a step further and developed an array of animals to choose from as well.

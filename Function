@@ -1,0 +1,8 @@
+function timeTravel() {
+    let maxYear = 2500 //max year we'll accept
+    let year = Math.random() * maxYear;
+	var petArray = ["cat", "mouse", "rat", "dog", "wolverine", "parakeet", "rabbit"];
+	var randomAnimal = petArray[Math.floor(Math.random()*petArray.length)];
+    var pet = randomAnimal;
+    return('Your ' + pet + ' is traveling through time to the year ' + Math.floor(year) + '!');
+}

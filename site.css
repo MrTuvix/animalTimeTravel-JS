@@ -1,0 +1,59 @@
+#container {
+    margin-left: 300px;
+    margin-top: 50px;
+    text-align: center;
+    height: 500px;
+    width: 750px;
+    box-shadow: black;
+    border: solid;
+    border-width: 5px;
+    border-color: tan;
+    background-color: #c5b13d;
+}
+
+#row2 {
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    font-size: 35px;
+    color: red;
+    font-family: Coda;
+    height: 175px;
+    width: 650px;
+    margin-top: -260px;
+    margin-left: 350px;
+    text-align: center;
+    padding: 10px;
+}
+
+button {
+    text-align: center;
+    border-style: solid;
+    border-color: tan;
+    border-width: 3px;
+    background-color: black;
+    padding: 2%;
+}
+
+#elem {
+    font-family: Rock Salt;
+    font-size: 25px;
+    color: yellow;
+    text-align: center;
+
+}
+
+h1 {
+    font-family: Coda;
+    font-size: 20px;
+    color: blue;
+    font-weight: bolder;
+    font-style: oblique;
+    padding: 5%;
+}
+
+script {
+    color: red;
+    font-size: 25px;
+
+}
